@@ -2,6 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Practica/Ejercicio Ruby - Carrito de compras/2026s1-carrito-de-compras-ruby-dkippes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Apuntes/1. Herencia y Mixines/age-of-mixins-ruby" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Practica/2. Ejercicio Ruby - Carrito de compras/2026s1-carrito-de-compras-ruby-dkippes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Practica/3. mixines/2026s1-mixines-ruby-dkippes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Practica/4. 2026s1-graficador-ruby-dkippes-3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Practica/5. 2026s1-method-lookup-ruby-dkippes" vcs="Git" />
   </component>
 </project>
