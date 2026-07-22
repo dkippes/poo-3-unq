@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/8-TP-2-Lenguaje-de-programacion/2026s1-tp2-metalurgicos/target/plugin/O3Lang/lib/O3Lang.jar!/" />
+      <root url="jar://$PROJECT_DIR$/8-TP-2-Lenguaje-de-programacion/2026s1-tp2-metalurgicos/target/plugin/O3Lang/lib/scala3-library_3-3.8.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/8-TP-2-Lenguaje-de-programacion/2026s1-tp2-metalurgicos/target/plugin/O3Lang/lib/scala-library-3.8.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
